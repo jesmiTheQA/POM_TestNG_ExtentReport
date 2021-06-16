@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-15T14:07:45 IST" name="Suite" finished-at="2021-06-15T14:08:13 IST" duration-ms="28619">
+    <groups>
+    </groups>
+    <test started-at="2021-06-15T14:07:45 IST" name="Test" finished-at="2021-06-15T14:08:13 IST" duration-ms="28619">
+      <class name="com.seleniumEasy.Test.HomePageNameVerification">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.seleniumEasy.Test.HomePageNameVerification@d6e7bab]" started-at="2021-06-15T14:07:45 IST" name="setUP" finished-at="2021-06-15T14:07:51 IST" duration-ms="6791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="homeVerification()[pri:0, instance:com.seleniumEasy.Test.HomePageNameVerification@d6e7bab]" started-at="2021-06-15T14:07:51 IST" name="homeVerification" finished-at="2021-06-15T14:07:53 IST" duration-ms="1583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeVerification -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.seleniumEasy.Test.HomePageNameVerification@d6e7bab]" started-at="2021-06-15T14:07:53 IST" name="tearDown" finished-at="2021-06-15T14:07:59 IST" duration-ms="5807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.seleniumEasy.Test.HomePageNameVerification -->
+      <class name="com.seleniumEasy.Test.TablePageVerifications">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.seleniumEasy.Test.TablePageVerifications@5fa07e12]" started-at="2021-06-15T14:07:59 IST" name="setUP" finished-at="2021-06-15T14:08:04 IST" duration-ms="4879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="filterByTaskVerification()[pri:1, instance:com.seleniumEasy.Test.TablePageVerifications@5fa07e12]" started-at="2021-06-15T14:08:04 IST" name="filterByTaskVerification" finished-at="2021-06-15T14:08:08 IST" duration-ms="4787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterByTaskVerification -->
+        <test-method signature="dataVerification()[pri:2, instance:com.seleniumEasy.Test.TablePageVerifications@5fa07e12]" started-at="2021-06-15T14:08:08 IST" name="dataVerification" finished-at="2021-06-15T14:08:11 IST" duration-ms="2926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataVerification -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.seleniumEasy.Test.TablePageVerifications@5fa07e12]" started-at="2021-06-15T14:08:11 IST" name="tearDown" finished-at="2021-06-15T14:08:13 IST" duration-ms="1797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.seleniumEasy.Test.TablePageVerifications -->
+      <class name="com.Selenium.Pages.BaseClass">
+        <test-method is-config="true" signature="clearDown()[pri:0, instance:com.Selenium.Pages.BaseClass@6a6afff2]" started-at="2021-06-15T14:08:13 IST" name="clearDown" finished-at="2021-06-15T14:08:14 IST" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearDown -->
+      </class> <!-- com.Selenium.Pages.BaseClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
